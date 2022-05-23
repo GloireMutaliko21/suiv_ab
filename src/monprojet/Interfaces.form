@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+    <Property name="title" type="java.lang.String" value="AIDE POUR LES INTREFACES DE L&apos;APPLICATION"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="cc" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder thickness="4">
+              <Color PropertyName="color" blue="99" green="0" red="0" type="rgb"/>
+            </LineBorder>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jPanel2" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jPanel2" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder thickness="2">
+                  <Color PropertyName="color" blue="99" green="33" red="0" type="rgb"/>
+                </LineBorder>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="385" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="jScrollPane3" min="-2" pref="393" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane2" min="-2" pref="393" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jScrollPane2" pref="827" max="32767" attributes="0"/>
+                          <Component id="jScrollPane1" max="32767" attributes="0"/>
+                          <Component id="jScrollPane3" alignment="0" pref="827" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="372" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" pref="29" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="66" green="0" red="0" type="rgb"/>
+                </Property>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea1">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="33" green="0" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Monospaced" size="14" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="lineWrap" type="boolean" value="true"/>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="   =========================================&#xa;&#x9;     Intreface de Login&#xa;   =========================================&#xa;&#x9;A Cette interface, il vous faut au d&#xe9;part de choisir le mode de connexion(Admin, Biblioth&#xe9;caire ou Gestionnaire du cyber-caf&#xe9;). Chacun des modes de connexion vous r&#xe9;dirige sur le menu compatible. Ensuite, il vous faut entrer un USERNAME(Nom d&apos;utilisateur) puis un mot de passe, les deux doivent &#xea;tre corrects et doivent correspondre avec le mode connexion choisi.&#xa;Enfin, vous pouvez maintenat cliquer sur le bouton &quot;CONNEXION&quot; pour acc&#xe9;der &#xe0; l&apos;interface suivante qui vous offrira un espace de travail selon votre mode de connection.&#xa;&#xa;   =========================================         Les menus selon le type de connexion &#xa;   =========================================&#xa;a) MENU PRINCIPAL&#xa;-----------------&#xa;&#x9;Cette interface s&apos;affichera lorsque vous vous &#xea;tes connect&#xe9; en tant qu&apos;administrateur. Le menu principal vous donnera acc&#xe8;s &#xe0; toutes les fonctionnalit&#xe9;s de l&apos;application. Ici vous pour faire les op&#xe9;rations de gestion sur telle ou telle autre secteur, il vous suffira de cliquer sur le bouton &quot;ENTRER&quot; situ&#xe9; en dessous du nom du secteur que vous souhaitez exploiter.&#xa;En bas de l&apos;interface, le bouton &quot;VISUALISATION ET IMPRESSION&quot; servira d&apos;ouvrir un menu pour r&#xe9;aliser des impressions des documents. Le bouton &quot;VERROUILLER&quot; vous r&#xe9;dirigera sur la page de connexion (Login), tandis que le bouton &quot;FERMER&quot; vous servira &#xe0; fermer le programme."/>
+                    <Property name="wrapStyleWord" type="boolean" value="true"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="66" green="0" red="0" type="rgb"/>
+                </Property>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea2">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="33" green="0" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Monospaced" size="14" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="lineWrap" type="boolean" value="true"/>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="Le bouton &quot;CONFIRMER&quot; vous servira de finaliser l&apos;enregistrement et vous utiliserez le bouton &quot;CHOISIR UNE IMAGE&quot; pour choisir une photo. Gr&#xe2;ce &#xe0; la barre des menus et dans le menu Options vous pourriez aller au formulaire de modification des infos sur un abonn&#xe9;.&#xa;2)AJOUTER UN ORDINATEUR&#xa;-----------------------&#xa;&#x9;Ce formulaire s&apos;affiche lorsque vous avez cliqu&#xe9; sur le premier bouton &quot;ENTRER&quot; du sous-menu de la gestion des ordinateurs. Une fois ouvert, vous devriez compl&#xe9;ter toutes les informations pour enregistrer un nouvel abonn&#xe9; dans la BDD. Les autres directives de l&apos;enregistrement des abonn&#xe9;s peuvent s&apos;appliquer ici.&#xa;3)AJOUTER UN LIVRE&#xa;------------------&#xa;&#x9;Ce formulaire s&apos;affiche lorsque vous avez cliqu&#xe9; sur le premier bouton &quot;ENTRER&quot; du sous-menu de la gestion des livres. Une fois ouvert, vous devriez compl&#xe9;ter toutes les informations pour enregistrer un nouveau livre dans la BDD. Il faudra faire attention au num&#xe9;ro d&apos;exemplaire du livre; pour ce faire, il vous suffira de saisir correctement le titre du livre &#xe0; enregistrer et tous les livres avec le m&#xea;me titre appara&#xee;tront avec leur num&#xe9;ro d&apos;exemplaire et vous pourriez savoir &#xe0; combien d&apos;exemplaires vous en &#xea;tes. A partir de la barre des menus vous pourriez aller au formulaire de modification.&#xa;4)ENREGISTRER UN UTILISATEUR&#xa;----------------------------&#xa;Ce formulaire s&apos;affiche lorsque vous avez cliqu&#xe9; sur le premier bouton &quot;ENTRER&quot; du sous-menu de la gestion des utilisateurs. Une fois ouvert, vous devriez compl&#xe9;ter toutes les informations et veiller &#xe0; ce que les mots de passe puissent correspondre pour enregistrer un nouvel utilisateur dans la BDD. Les autres directives de l&apos;enregistrement des abonn&#xe9;s peuvent s&apos;appliquer ici.&#xa;&#x9;"/>
+                    <Property name="wrapStyleWord" type="boolean" value="true"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="66" green="0" red="0" type="rgb"/>
+                </Property>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea3">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="33" green="0" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Monospaced" size="14" style="1"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="99" green="99" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="lineWrap" type="boolean" value="true"/>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="b) MENU POUR GESTIONNAIRE CYBER&#xa;-------------------------------&#xa;&#x9;Cette interface s&apos;ouvre lorsque vous vous &#xea;tes connect&#xe9; en tant que gestionnaire du cyber-caf&#xe9;. Ici vous ne pourriez g&#xe9;rer que les ordinateurs et les fr&#xe9;quentations du cyber-caf&#xe9;&#xa;c) MENU POUR BIBLIOTHECAIRE&#xa;---------------------------&#xa;&#x9;Cette interface s&apos;ouvre lorsque vous vous &#xea;tes connect&#xe9; en tant que biblioth&#xe9;caire. Ici vous ne pourriez g&#xe9;rer que les livres et les fr&#xe9;quentations de la biblioth&#xe8;que.&#xa;   ==========================================&#xa;&#x9;&#x9;LES SOUS-MENUS&#xa;   ==========================================&#xa;&#x9;Les sous-menus sont des petites interfaces qui s&apos;ouvrent lorsque vous avez cliqu&#xe9; sur un bouton &quot;ENTRER&quot;. Sur la majorit&#xe9; d&apos;eux vous trouverez deux op&#xe9;rations dont l&apos;enregistrement et la modification.&#xa;Sur les sous-menus de fr&#xe9;quentations pour cyber  et pour biblioth&#xe8;que, il y a une commande qui    vous permettra d&apos;afficher toutes les fr&#xe9;quentations du jour dont les heures de sortie sont d&#xe9;j&#xe0; &#xe9;coul&#xe9;es selon que vous &#xea;tes dans la gestion des fr&#xe9;quentations cyber ou celles de biblioth&#xe8;que.&#xa;Sur le sous-menu de gestion des paiements, une commande vous permettra de modifier les modalit&#xe9;s des tarifications.&#xa;   ==========================================&#xa;    LES INTERFACES D&apos;ENREGISTREMENTS(AJOUTS)&#xa;   ==========================================&#xa;1)ENREGISTRER UN ABONNE&#xa;-----------------------&#xa;&#x9;Ce formulaire s&apos;affiche lorsque vous avez cliqu&#xe9; sur le premier bouton &quot;ENTRER&quot; du sous-menu de la gestion des abonn&#xe9;s. Une fois ouvert, vous devriez compl&#xe9;ter toutes les informations pour enregistrer un nouvel abonn&#xe9; dans la BDD."/>
+                    <Property name="wrapStyleWord" type="boolean" value="true"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JButton" name="jButton1">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/images/images/last-32.png"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
